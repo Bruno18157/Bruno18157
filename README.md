@@ -12,10 +12,5 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI e gosto de desenvolver pro
 
 ### Projetos
 
-| Projeto | Descrição |
-|---|---|
-| [Simulador de Urna](LINK_DO_REPOSITORIO) | Simulador de votação inspirado em uma urna eletrônica. |
-
-### Contato
-
-- GitHub: [@SEU_USUARIO](https://github.com/Bruno18157)
+- **[Simulador de Urna](https://github.com/Bruno18157/urna-eletronica)**  
+  Simulador de votação inspirado em uma urna eletrônica.
