@@ -1,13 +1,21 @@
-# 👋 Olá, eu sou o Bruno!
+# Olá, eu sou o Bruno!
 
-### 💻 Estudante de Desenvolvimento de Sistemas
+### Estudante de Desenvolvimento de Sistemas
 
-Sou estudante de **Desenvolvimento de Sistemas no SENAI** e gosto de programar principalmente por diversão, criando coisas que me interessam.
+Sou estudante de Desenvolvimento de Sistemas no SENAI e gosto de desenvolver projetos próprios, explorar novas ideias e aprender programação na prática.
 
-### 🛠️ O que eu mais uso
+### Tecnologias
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-**HTML • CSS • JavaScript**
+**HTML · CSS · JavaScript**
+
+### Projetos
+
+| Projeto | Descrição |
+|---|---|
+| [Simulador de Urna](LINK_DO_REPOSITORIO) | Simulador de votação inspirado em uma urna eletrônica. |
+
+### Contato
+
+- GitHub: [@SEU_USUARIO](https://github.com/Bruno18157)
